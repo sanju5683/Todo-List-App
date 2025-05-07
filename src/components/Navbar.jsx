@@ -3,7 +3,7 @@
 function Navbar() {
     return (
         <div className='flex bg-violet-500 font-semibold justify-between px-8 text-4xl py-2'>
-            <div className="logo flex items-center gap-3"><img width={46} src="/src/image/task.png" alt="task img" />
+            <div className="logo flex items-center gap-3"><img width={46} src="/task.png" alt="task img" />
             <span>iTask </span>
             </div>
             {/* <ul className='flex gap-5'>
